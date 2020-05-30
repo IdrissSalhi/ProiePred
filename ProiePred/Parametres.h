@@ -1,0 +1,12 @@
+#ifndef PARAMETRES_H_INCLUDED
+#define PARAMETRES_H_INCLUDED
+
+#define HAUTEUR 1000
+#define LARGEUR 1900
+#define HAUTEUR_IM 50
+#define LARGEUR_IM 50
+#define PRINT 0
+
+
+
+#endif // PARAMETRES_H_INCLUDED
